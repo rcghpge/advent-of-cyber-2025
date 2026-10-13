@@ -9,7 +9,7 @@ The challenges in this event cover a diverse range of fundamentals in the cybers
 ## 🗺️  Subjects Covered
 
 ### 💻 Security Fundamentals & Operations
-* **Linux CLI & Shells:** Navigating the terminal, file analysis, and text manipulation.
+* **Linux CLI & Shells:** Navigating the terminal, filesystem analysis, and text manipulation.
 * **SOC Alert Triaging & SIEM:** Log ingestion, custom parsing, and incident investigation using Splunk and Microsoft Sentinel.
 * **Network Discovery:** Port scanning, service enumeration, and network reconnaissance.
 * **Password Cracking:** Cryptographic analysis and cracking password-encrypted files.
