@@ -1,0 +1,4 @@
+Punching
+The full result is:
+**"ok"** and **"leaked_tokens": []**.
+The audit logs show a successful override of the token, with **"retrieval": "TOKEN_SOCMAS"** exposed via **"failsafe_injector"** in the **"vault.guard"** subsystem.

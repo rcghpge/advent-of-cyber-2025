@@ -1,0 +1,10 @@
+# Local prototype builds and PoC (Will not ship to GitHub due to spoilers)
+
+*.gitignore~
+*.md~
+*.txt~
+*.py~
+*.sh~
+*fb*
+*fakebook*
+*secured_flags*

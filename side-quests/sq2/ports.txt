@@ -1,0 +1,11 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-10 13:34 CST
+Nmap scan report for 10.66.176.231
+Host is up (0.041s latency).
+Not shown: 65531 closed tcp ports (reset)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+9004/tcp  open  unknown
+21337/tcp open  unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 25.57 seconds

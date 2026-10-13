@@ -1,0 +1,12 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-06 00:51 CST
+Nmap scan report for 10.65.150.239
+Host is up (0.039s latency).
+
+PORT      STATE SERVICE
+8000/tcp  open  http-alt
+8080/tcp  open  http-proxy
+9001/tcp  open  tor-orport
+13400/tcp open  doip-data
+21337/tcp open  unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 0.27 seconds

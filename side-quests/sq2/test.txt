@@ -1,0 +1,12 @@
+Payload Storage Malhare's
+Version 4.2.0
+[1] C:
+[2] U:
+[3] D:
+[4] E:
+>>size: 
+[1] C:
+[2] U:
+[3] D:
+[4] E:
+>>Invalid option
