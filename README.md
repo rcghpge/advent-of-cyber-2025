@@ -16,15 +16,15 @@ The challenges in this event cover a diverse range of fundamentals in the cybers
 
 ### 🌐 Web & Cloud Security
 * **Exploitation with cURL:** Endpoint enumeration, custom header manipulation, and API analysis.
-* **IDOR Exploitation:** Insecure Direct Object References testing on web applications.
+* **IDOR Exploitation:** Insecure Direct Object References (IDOR) testing on web applications.
 * **Cross-Site Scripting (XSS):** Identifying stored, reflected, and DOM-based XSS vulnerabilities.
 * **AWS Cloud Security:** Cloud environment enumeration and S3 bucket security analysis.
 * **Container Escape:** Docker/container isolation mechanisms and privilege escalation.
 
 ### 🔍 Forensics & Malware Analysis
-* **Web Attack Forensics:** Reconstructing web-based attacks and analyzing attack vectors utilizing SIEM tools.
+* **Web Attack Forensics:** Reconstructing web-based attacks and analyzing attack vectors utilizing Security Information and Event Management (SIEM) tools.
 * **Registry Forensics:** Investigating the Windows Registry for persistence and malicious artifacts.
-* **Malware Analysis & YARA:** Behavioral and static analysis in sandbox environments, paired with custom YARA signature rules.
+* **Malware Analysis & YARA:** Behavioral and static analysis in sandbox environments, paired with custom Yet Another Recursive Acronym (YARA) signature rules.
 * **Obfuscation & C2 Detection:** De-obfuscating malicious scripts and analyzing packet captures (PCAPs) to extract Command & Control (C2) metrics.
 * **CyberChef:** The "Cyber Swiss Army Knife" for data decoding, encoding, and recipe building.
 
