@@ -1,8 +1,8 @@
 # TryHackMe: Advent of Cyber 2025 🎄🛡️
 
-This repository is for **TryHackMe's annual Advent of Cyber event circa 2025**. This repository documents my hands-on learning, solutions, prototype security based scripting, and notes as I worked through the prep track and 24 individual daily walkthrough rooms to help save the holiday season in Wareville from King Malhare.
+This repository is for **TryHackMe's annual Advent of Cyber event circa 2025**. It documents my hands-on learning, solutions, prototype security based scripting, and notes as I worked through the prep track and 24 individual daily walkthrough rooms to in saving the 2025 holiday season in Wareville from the evil King Malhare.
 
-The challenges in this event cover a diverse range of fundamentals in the cybersecurity domain, from foundational Linux skills to advanced AI and Industrial Control Systems (ICS) security. Some day challenges did not require a dedicated host operating system environment to complete the challenges.
+The challenges in this event cover a diverse range of fundamentals in the cybersecurity domain, from foundational Linux skills to advanced AI and Industrial Control Systems (ICS) security. Some of the day challenges did not require a dedicated host operating system environment to complete the challenges.
 
 ---
 
