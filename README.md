@@ -10,7 +10,7 @@ The challenges in this event cover a diverse range of fundamentals in the cybers
 
 ### 💻 Security Fundamentals & Operations
 * **Linux CLI & Shells:** Navigating the terminal, file analysis, and text manipulation.
-* **SOC Alert Triaging & SIEM:** Log ingestion, custom parsing, and incident investigation using **Splunk** and **Microsoft Sentinel**.
+* **SOC Alert Triaging & SIEM:** Log ingestion, custom parsing, and incident investigation using Splunk and Microsoft Sentinel.
 * **Network Discovery:** Port scanning, service enumeration, and network reconnaissance.
 * **Password Cracking:** Cryptographic analysis and cracking password-encrypted files.
 
@@ -58,7 +58,7 @@ The challenges in this event cover a diverse range of fundamentals in the cybers
 | **XSS** | Merry XSSMas | Injecting malicious scripts and evaluating strategic code-fix remediations. |
 | **Phishing Defense** | Phishmas Greetings | Defensive email analysis to spot structural indicators of phishing anomalies. |
 | **YARA Rules** | YARA mean one! | Writing string and condition rules to catch persistent system threats. |
-| ** Cloud Containers + Virtual Machines (VM's) ** | DoorDasher's Demise | Breaking out of containerized cloud environments and exploiting Docker misconfigurations. |
+| **Cloud Containers + Virtual Machines (VM's)** | DoorDasher's Demise | Breaking out of containerized cloud environments and exploiting Docker misconfigurations. |
 | **Web Forensics** | Drone Alone | Investigating active application compromises using log trails in Splunk. |
 | **Forensics** | Registry Furensics | Source Windows hive files in a Windows environment to extract persistence configurations. |
 | **CyberChef** | Hoperation Save McSkidy | Chaining modular decoding formulas to breach encryption puzzles. |
